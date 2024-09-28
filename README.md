@@ -1,7 +1,7 @@
 # blockchain_m2_dids
 ## Aplicación de escritorio para gestión de identidad descentralizada
 
-## Identificador Descentralizados (DIDs)
+## Identificadores Descentralizados (DIDs)
 Con este prototipo actualmente puedes cargar la imagen de una credencial de elector y extraer el nombre, el cual se utiliza como metadata en la interacción con un smart contract desplegado en la red de Polygon Mainnet, con dicha interacción se genera un DID ocultando el contenido o texto en claro.
 
 Para poder probar la aplicación basta con clonar el repositorio y ejecutar el archivo app.py.
@@ -12,6 +12,6 @@ El modo de carga de datos más completo es "Carga documental" y el flujo concluy
 
 Se incluyen otros archivos para el trabajo a futuro de gestión de DIDs.
 
-## Verifiable Presentations (VPs)
+## Presentaciones Verificables (VPs)
 
-También se incluyen archivos para la interacción con otro smart contract de Verifiable Presentations (VPs).
+También se incluyen archivos para la interacción con otro smart contract de VPs.
